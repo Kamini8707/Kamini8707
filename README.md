@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8b9cbc48880a647aba320d4dcf06953ff2ec16205197f1f2242bf5b750000c77/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966"
 
 
-- 🔭 I’m currently working on [ATM System](https://github.com/Kamini8707/OOPs-Projects/tree/main/ATM%20System)
 
-- 🌱 I’m currently learning **Javascript**
+
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **C++, Data Structure and Algorithm**
 
